@@ -1,11 +1,13 @@
 public class App {
     public static void main(String[] args) {
-
+        Benchmarking b = new Benchmarking();
+        
+/* 
         MetodosOrdenamiento ordenador = new MetodosOrdenamiento();
         int[] arregloBurbuja = { 34, 2, 10, 6, 7, 5, 1, 15 };
         int[] arregloSeleccion = { 34, 2, 10, 6, 7, 5, 1, 15 };
         int[] arregloInsercion = { 34, 2, 10, 6, 7, 5, 1, 15 };
-
+    
         // Insctucciones:
         // Todas las llamadas a los metodos deberan estar descomentadas y se debera
         // poder ejecutar
@@ -77,6 +79,7 @@ public class App {
         // System.out.println(
         // "Resultado Insercion Metodo 2: " +
         // java.util.Arrays.toString(arregloInsercionOrdenado3));
-
+*/
     }
+        
 }
